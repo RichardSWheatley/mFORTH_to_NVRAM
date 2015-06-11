@@ -1,5 +1,0 @@
-0x10000 userOpen
-: put start: userWrite ;
-put 100 delay
-put baud 5 set drop
-userClose
