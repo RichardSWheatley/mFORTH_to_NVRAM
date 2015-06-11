@@ -4,10 +4,10 @@
   <description asmv2:publisher="Create_NVRAM_Script" asmv2:product="Create_NVRAM_Script" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Create_NVRAM_Script.exe.manifest" size="4420">
+    <dependentAssembly dependencyType="install" codebase="Create_NVRAM_Script.exe.manifest" size="4845">
       <assemblyIdentity name="Create_NVRAM_Script.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
     </dependentAssembly>
   </dependency>

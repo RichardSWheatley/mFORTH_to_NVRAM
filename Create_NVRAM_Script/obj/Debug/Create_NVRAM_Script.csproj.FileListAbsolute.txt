@@ -11,3 +11,4 @@ C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Cre
 C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Debug\Create_NVRAM_Script.application
 C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Debug\Create_NVRAM_Script.exe
 C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Debug\Create_NVRAM_Script.pdb
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Debug\Create_NVRAM_Script.exe.config
