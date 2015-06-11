@@ -1,0 +1,14 @@
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Release\Create_NVRAM_Script.exe.config
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Release\Create_NVRAM_Script.exe.manifest
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Release\Create_NVRAM_Script.application
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Release\Create_NVRAM_Script.exe
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\bin\Release\Create_NVRAM_Script.pdb
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.csprojResolveAssemblyReference.cache
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.Properties.Resources.resources
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.csproj.GenerateResource.Cache
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.TrustInfo.xml
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.exe.manifest
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.application
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.exe
+C:\Users\rwheatley\Documents\Visual Studio 2005\Projects\Create_NVRAM_Script\Create_NVRAM_Script\obj\Release\Create_NVRAM_Script.pdb

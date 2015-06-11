@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Create_NVRAM_Script.exe" size="11776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Create_NVRAM_Script.exe" size="11264">
       <assemblyIdentity name="Create_NVRAM_Script" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TbwobMm8Sjm6ahbEKpk5yDXZQug0D/sSaaUPY6Bd4qc=</dsig:DigestValue>
+        <dsig:DigestValue>OxYMCsewQ7wHsnOucDb95qLPrEZ7VDD0U9D/Ok5nbxA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
